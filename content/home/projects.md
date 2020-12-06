@@ -22,7 +22,7 @@ title = "Projects"
   
    [[content.filter_button]]
   name = "A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/"
-     tag = "*"
+  #tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
