@@ -11,7 +11,7 @@ subtitle = "A list of my past, current and future projects can be found on my OS
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
-  
+  A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
