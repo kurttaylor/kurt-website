@@ -15,4 +15,4 @@ weight = 60
 
 +++
 
-My CV is available [here]().
+My CV is available [here](https://kurt-taylor.netlify.app/docs/Kurt_CV_Nov2020.pdf).
