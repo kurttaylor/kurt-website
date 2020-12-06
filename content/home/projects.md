@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/"
 
 [content]
   # Page type to display. E.g. project.
