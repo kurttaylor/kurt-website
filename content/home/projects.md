@@ -20,7 +20,7 @@ title = "Projects"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   [[content.filter_button]]
+   [[testing testing]]
   name = "A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/"
   #tag = "*"
   
