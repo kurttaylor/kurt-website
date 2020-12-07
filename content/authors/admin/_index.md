@@ -18,8 +18,8 @@ bio: My research involves using epidemiological techniques to explore maternal r
 
 interests:
 - Epidemiology
-- Open Science
 - Metabolomics
+- Open Science
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Kurt Taylor is a PhD student at the University of Bristol based in the Integrative Epidemiolgoy Unit. His research interests include using cardiovascular disease epidemiology, large-scale metabolomic analyses and Open Science. In his spare time, he is a competitive distance runner and keen cyclist.
+Kurt is a PhD student at the University of Bristol based in the Integrative Epidemiolgoy Unit. He is in his final year of his 4-year PhD Studentship, funded by the British Heart Foundation. His thesis involves using a range of epidemiological techniques to explore maternal lifestyle and molecular risk factors for offspring congenital heart diseases. In his spare time, he is a competitive distance runner and keen cyclist.
