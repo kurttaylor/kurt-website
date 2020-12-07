@@ -13,7 +13,7 @@
  [[main]]
     name = "CV"
     url = "static/docs/Kurt_CV_Nov2020.pdf"
-    weight = 70
+    weight = 20
 
 #[[main]]
 #  name = "Posts"
