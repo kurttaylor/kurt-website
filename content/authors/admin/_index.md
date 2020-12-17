@@ -18,8 +18,9 @@ bio: My research involves using epidemiological techniques to explore maternal r
 
 interests:
 - Epidemiology
-- Metabolomics
 - Open Science
+- Metabolomics
+- Physiology
 
 education:
   courses:
