@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/. Here you will find many examples of my pre-specified analysis plans."
+#subtitle = "A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/. Here you will find many examples of my pre-specified analysis plans."
 
 [content]
   # Page type to display. E.g. project.
@@ -70,4 +70,4 @@ subtitle = "A list of my past, current and future projects can be found on my OS
  css_class = ""
 +++
 
-A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/
+A list of my past, current and future projects can be found on my OSF page at: https://osf.io/82vq6/. Writing pre-specified analysis plans and registering them online has become an integral aspect of my workflow. This way of working can reduce biases (such as publication bias and ‘p-hacking’), ensures methods are based on the data (not adjusted to fit with results) and streamlines the production of a scientific manuscript. You will find examples of my analysis plans on the link above.
