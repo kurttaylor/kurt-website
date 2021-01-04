@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Improving the precision of intranasal oxytocin research
+title: Prioritizing putative influential genes in early life cardiovascular disease susceptibility by applying tissue-specific Mendelian randomization
 subtitle: ''
 summary: 'We outline how the precision of intranasal oxytocin research can be improved by the complementary consideration of methodology, theory and reproducibility'
 authors:
