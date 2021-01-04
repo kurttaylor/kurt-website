@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Prioritizing putative influential genes in cardiovascular disease susceptibility by applying tissue-specific Mendelian randomization
+title: Improving the precision of intranasal oxytocin research
 subtitle: ''
-summary: ''
+summary: 'We outline how the precision of intranasal oxytocin research can be improved by the complementary consideration of methodology, theory and reproducibility'
 authors:
-- Kurt Taylor
-- George Davey Smith
-- Caroline L. Relton
-- Tom R. Gaunt
-- Tom G. Richardson
-tags: [""]
+- Adriano Winterton
+- Lars T. Westlye
+- Nils Eiel Steen
+- Ole A. Andreassen
+- Daniel S Quintana
+tags: ["oxytocin"]
 categories: []
-date: '2019-01-31'
+date: '2020-11-30'
 lastmod: 2020-08-29T14:26:46+02:00
 featured: false
 draft: false
@@ -30,25 +30,18 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [""]
-publishDate: '2020-01-31T12:26:46.405871Z'
+projects: ["oxytocin"]
+publishDate: '2020-11-30T12:26:46.405871Z'
 publication_types:
 - 2
-abstract: Background 
-The extent to which changes in gene expression can influence cardiovascular disease risk across different tissue types has not yet been systematically explored. We have developed an analysis pipeline that integrates tissue-specific gene expression, Mendelian randomization and multiple-trait colocalization to develop functional mechanistic insight into the causal pathway from a genetic variant to a complex trait.  
-Methods
-We undertook an expression quantitative trait loci-wide association study to uncover genetic variants associated with both nearby gene expression and cardiovascular traits. Fine-mapping was performed to prioritize possible causal variants for detected associations. Two-sample Mendelian randomization (MR) was then applied using findings from genome-wide association studies (GWAS) to investigate whether changes in gene expression within certain tissue types may influence cardiovascular trait variation. We subsequently used Bayesian multiple-trait colocalization to further interrogate the findings and also gain insight into whether DNA methylation, as well as gene expression, may play a role in disease susceptibility. Finally, we applied our analysis pipeline genome-wide using summary statistics from large-scale GWAS.  
-Results 
-Eight genetic loci were associated with changes in gene expression and measures of cardiovascular function. Our MR analysis provided evidence of tissue-specific effects at multiple loci, of which the effects at the ADCY3 and FADS1 loci for body mass index and cholesterol, respectively, were particularly insightful. Multiple-trait colocalization uncovered evidence which suggested that changes in DNA methylation at the promoter region upstream of FADS1/TMEM258 may also affect cardiovascular trait variation along with gene expression. Furthermore, colocalization analyses uncovered evidence of tissue specificity between gene expression in liver tissue and cholesterol levels. Applying our pipeline genome-wide using summary statistics from GWAS uncovered 233 association signals at loci which represent promising candidates for further evaluation.  
-Conclusions
-Disease susceptibility can be influenced by differential changes in tissue-specific gene expression and DNA methylation. The approach undertaken in our study can be used to elucidate mechanisms in disease, as well as helping prioritize putative causal genes at associated loci where multiple nearby genes may be co-regulated. Future studies which continue to uncover quantitative trait loci for molecular traits across various tissue and cell types will further improve our capability to understand and prevent disease.
-publication: '*Genome Medicine*'
-url_pdf: https://doi.org/10.1186/s13073-019-0613-2
-doi: 10.1186/s13073-019-0613-2
+abstract: The neuropeptide oxytocin has been popularized for its role in social behaviour and nominated as a candidate treatment for several psychiatric illnesses due to promising preclinical results. However, these results so far have failed to reliably translate from animal models to human research. In response, there have been justified calls to improve intranasal oxytocin delivery methodology in terms of verifying that intranasal administration increases central levels of oxytocin. Nonetheless, improved methodology needs to be coupled with a robust theory of the role of oxytocin in behaviour and physiology to ask meaningful research questions. Moreover, stringent methodology based on robust theory may yield interesting results, but such findings will have limited utility if they are not reproducible. We outline how the precision of intranasal oxytocin research can be improved by the complementary consideration of methodology, theory and reproducibility.
+publication: '*Nature Human Behaviour*'
+url_pdf: https://doi.org/10.1038/s41562-020-00996-4
+doi: 10.1038/s41562-020-00996-4
 
 links:
   - name: Preprint PDF
-    url: 'https://doi.org/10.1101/298687'
-#  - name: Non-paywalled PDF
-#    url: https://doi.org/10.1186/s13073-019-0613-2
+    url: 'https://osf.io/gz5jb'
+  - name: Non-paywalled PDF
+    url: https://rdcu.be/cbuVs
 ---
