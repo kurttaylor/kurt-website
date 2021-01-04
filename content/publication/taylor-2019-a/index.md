@@ -34,13 +34,7 @@ projects: [""]
 publishDate: '2019-01-31T12:26:46.405871Z'
 publication_types:
 - 2
-abstract: '**Background**
-
-The extent to which changes in gene expression can influence cardiovascular disease risk across different tissue types has not yet been systematically explored. We have developed an analysis pipeline that integrates tissue-specific gene expression, Mendelian randomization and multiple-trait colocalization to develop functional mechanistic insight into the causal pathway from a genetic variant to a complex trait.
-
-**Methods**
-
-We undertook an expression quantitative trait loci-wide association study to uncover genetic variants associated with both nearby gene expression and cardiovascular traits. Fine-mapping was performed to prioritize possible causal variants for detected associations. Two-sample Mendelian randomization (MR) was then applied using findings from genome-wide association studies (GWAS) to investigate whether changes in gene expression within certain tissue types may influence cardiovascular trait variation. We subsequently used Bayesian multiple-trait colocalization to further interrogate the findings and also gain insight into whether DNA methylation, as well as gene expression, may play a role in disease susceptibility. Finally, we applied our analysis pipeline genome-wide using summary statistics from large-scale GWAS.
+abstract: '**Background**<br/>The extent to which changes in gene expression can influence cardiovascular disease risk across different tissue types has not yet been systematically explored. We have developed an analysis pipeline that integrates tissue-specific gene expression, Mendelian randomization and multiple-trait colocalization to develop functional mechanistic insight into the causal pathway from a genetic variant to a complex trait.<br/>**Methods**<br/>We undertook an expression quantitative trait loci-wide association study to uncover genetic variants associated with both nearby gene expression and cardiovascular traits. Fine-mapping was performed to prioritize possible causal variants for detected associations. Two-sample Mendelian randomization (MR) was then applied using findings from genome-wide association studies (GWAS) to investigate whether changes in gene expression within certain tissue types may influence cardiovascular trait variation. We subsequently used Bayesian multiple-trait colocalization to further interrogate the findings and also gain insight into whether DNA methylation, as well as gene expression, may play a role in disease susceptibility. Finally, we applied our analysis pipeline genome-wide using summary statistics from large-scale GWAS.
 
 **Results**
 
