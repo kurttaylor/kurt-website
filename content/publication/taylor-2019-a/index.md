@@ -1,11 +1,11 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: Prioritizing putative influential genes in cardiovascular disease susceptibility by applying tissue-specific Mendelian randomization
+  # Documentation: https://sourcethemes.com/academic/docs/managing-content/
+  
+  title: Prioritizing putative influential genes in cardiovascular disease susceptibility by applying tissue-specific Mendelian randomization
 subtitle: ''
 summary: ''
 authors:
-- Kurt Taylor
+  - Kurt Taylor
 - George Davey Smith
 - Caroline L. Relton
 - Tom R. Gaunt
@@ -22,8 +22,8 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
-  preview_only: false
+focal_point: ''
+preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -33,7 +33,7 @@ image:
 #projects: [""]
 #publishDate: '2020-11-30T12:26:46.405871Z'
 publication_types:
-- 2
+  - 2
 abstract: Background
 The extent to which changes in gene expression can influence cardiovascular disease risk across different tissue types has not yet been systematically explored. We have developed an analysis pipeline that integrates tissue-specific gene expression, Mendelian randomization and multiple-trait colocalization to develop functional mechanistic insight into the causal pathway from a genetic variant to a complex trait.
 
@@ -51,7 +51,7 @@ doi: 10.1186/s13073-019-0613-2
 
 links:
   - name: Preprint PDF
-    url: 'https://doi.org/10.1101/298687'
-  - name: Non-paywalled PDF
-    url: https://doi.org/10.1186/s13073-019-0613-2
+url: 'https://doi.org/10.1101/298687'
+- name: Non-paywalled PDF
+url: https://doi.org/10.1186/s13073-019-0613-2
 ---
