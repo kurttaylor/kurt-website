@@ -3,16 +3,16 @@
 
 title: Prioritizing putative influential genes in early life cardiovascular disease susceptibility by applying tissue-specific Mendelian randomization
 subtitle: ''
-summary: 'We outline how the precision of intranasal oxytocin research can be improved by the complementary consideration of methodology, theory and reproducibility'
+summary: ''
 authors:
-- Adriano Winterton
-- Lars T. Westlye
-- Nils Eiel Steen
-- Ole A. Andreassen
-- Daniel S Quintana
-tags: ["oxytocin"]
+- Kurt Taylor
+- George Davey Smith
+- Caroline L. Relton
+- Tom R. Gaunt
+- Tom G. Richardson
+tags: [""]
 categories: []
-date: '2020-11-30'
+date: '2019-01-31'
 lastmod: 2020-08-29T14:26:46+02:00
 featured: false
 draft: false
