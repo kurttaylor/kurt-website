@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Prioritizing putative influential genes in early life cardiovascular disease susceptibility by applying tissue-specific Mendelian randomization
+title: Improving the precision of intranasal oxytocin research
 subtitle: ''
-summary: ''
+summary: 'We outline how the precision of intranasal oxytocin research can be improved by the complementary consideration of methodology, theory and reproducibility'
 authors:
-- Kurt Taylor
-- George Davey Smith
-- Caroline L. Relton
-- Tom R. Gaunt
-- Tom G. Richardson
-tags: [""]
+- Adriano Winterton
+- Lars T. Westlye
+- Nils Eiel Steen
+- Ole A. Andreassen
+- Daniel S Quintana
+tags: ["oxytocin"]
 categories: []
-date: '2019-01-31'
+date: '2020-11-30'
 lastmod: 2020-08-29T14:26:46+02:00
 featured: false
 draft: false
@@ -30,8 +30,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [""]
-publishDate: '2019-91-31T12:26:46.405871Z'
+projects: ["oxytocin"]
+publishDate: '2020-11-30T12:26:46.405871Z'
 publication_types:
 - 2
 abstract: **Background** The extent to which changes in gene expression can influence cardiovascular disease risk across different tissue types has not yet been systematically explored. We have developed an analytical framework that integrates tissue-specific gene expression, Mendelian randomization and multiple-trait colocalization to develop functional mechanistic insight into the causal pathway from genetic variant to complex trait.
@@ -41,11 +41,13 @@ abstract: **Background** The extent to which changes in gene expression can inf
 **Results** Eight genetic loci were associated with changes in gene expression and early life measures of cardiovascular function. Our Mendelian randomization analysis provided evidence of tissue-specific effects at multiple loci, of which the effects at the ADCY3 and FADS1 loci for body mass index and cholesterol respectively were particularly insightful. Multiple trait colocalization uncovered evidence which suggested that changes in DNA methylation at the promoter region upstream of FADS1/TMEM258 may also play a role in cardiovascular trait variation along with gene expression. Furthermore, colocalization analyses were able to uncover evidence of tissue-specificity, most prominantly between SORT1 expression in liver tissue and cholesterol levels.
 
 **Conclusions** Disease susceptibility can be influenced by differential changes in tissue-specific gene expression and DNA methylation. Our analytical framework should prove valuable in elucidating mechanisms in disease, as well as helping prioritize putative causal genes at associated loci where multiple nearby genes may be co-regulated. Future studies which continue to uncover quantitative trait loci for molecular traits across various tissue and cell typse will further improve our capability to understand and prevent disease.
-publication: '*Genome Medicine*'
-url_pdf: https://doi.org/10.1186/s13073-019-0613-2
-doi: 10.1186/s13073-019-0613-2
+publication: '*Nature Human Behaviour*'
+url_pdf: https://doi.org/10.1038/s41562-020-00996-4
+doi: 10.1038/s41562-020-00996-4
 
 links:
   - name: Preprint PDF
-    url: 'https://doi.org/10.1101/298687'
+    url: 'https://osf.io/gz5jb'
+  - name: Non-paywalled PDF
+    url: https://rdcu.be/cbuVs
 ---
