@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Kurt is a PhD student at the University of Bristol based in the Integrative Epidemiolgoy Unit. He is in his final year of his 4-year PhD Studentship, funded by the British Heart Foundation. His thesis involves using a range of epidemiological techniques to explore maternal lifestyle and molecular risk factors for offspring congenital heart diseases. In his spare time, he is a competitive distance runner and keen cyclist.
+I am a PhD student at the University of Bristol based in the Integrative Epidemiolgoy Unit. I am in my final year of my 4-year PhD Studentship, funded by the British Heart Foundation. My thesis involves using a range of epidemiological techniques to explore maternal lifestyle and molecular risk factors for offspring congenital heart diseases. In my spare time, I am a competitive distance runner and keen cyclist.
