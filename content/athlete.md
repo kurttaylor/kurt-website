@@ -14,4 +14,7 @@ I am a competitive distance runner competing for Bristol & West AC where I am al
 
 {{< figure src="kurt_athlete_photo.JPG" caption="A caption" >}}
 
-
+ gallery_item:
+ - album: gallery
+   image: kurt_athlete_photo.JPG
+   caption: A caption
