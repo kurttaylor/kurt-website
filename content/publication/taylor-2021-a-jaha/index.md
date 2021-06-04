@@ -6,6 +6,23 @@ subtitle: ''
 summary: ''
 authors:
 - Kurt Taylor
+- Ahmed Elhakeem
+- Johanna Lucia Thorbjørnsrud Nader
+- Tiffany C. Yang
+- Elena Isaevska
+- Lorenzo Richiardi
+- Tanja Vrijkotte
+- Angela Pinot de Moira
+- Deirdre M. Murray
+- Daragh Finn
+- Dan Mason
+- John Wright
+- Sam Oddie
+- Nel Roeleveld
+- Jennifer R. Harris
+- Anne‐Marie Nybo Andersen
+- Massimo Caputo
+- Deborah A. Lawlor
 tags: [""]
 categories: []
 date: '2021-27-05'
