@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - David A Hughes
-- Kurt Taylor
+- **Kurt Taylor**
 - Nancy McBride
 - Matthew A Lee
 - Dan Mason
