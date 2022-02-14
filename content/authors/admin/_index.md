@@ -6,7 +6,7 @@ title: Kurt Taylor
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research involves using epidemiological techniques to explore maternal risk factors for congenital heart diseases. 
+bio: I am a Senior Research Associate in Medical Statistics and Health Data Science conducting research within the Longitudinal Health and Wellbeing COVID-19 National Core Study.
 
 interests:
 - Epidemiology
 - Open Science
 - Metabolomics
-- Physiology
+- Electronic health record data
 
 education:
   courses:
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at the University of Bristol based in the Integrative Epidemiolgoy Unit. I am in my final year of my 4-year PhD Studentship, funded by the British Heart Foundation. My thesis involves using a range of epidemiological techniques to explore maternal lifestyle and molecular risk factors for offspring congenital heart diseases. In my spare time, I am a competitive distance runner and keen cyclist.
+I am a Senior Research Associate in Medical Statistics and Health Data Science at the University of Bristol based in the Integrative Epidemiology Unit. Currently, I am conducting research within the Longitudinal Health and Wellbeing COVID-19 National Core Study. In my spare time, I am a competitive distance runner and keen cyclist.
