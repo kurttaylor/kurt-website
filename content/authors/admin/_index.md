@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Research Associate in Medical Statistics and Health Data Science at the University of Bristol based in the Bristol Medical School. Currently, I am conducting research within the Longitudinal Health and Wellbeing COVID-19 National Core Study. In my spare time, I am a competitive distance runner and keen cyclist.
+I am a Senior Research Associate in Medical Statistics and Health Data Science at the University of Bristol based in the Bristol Medical School. Currently, I am conducting research using electronic health data. In my spare time, I am a competitive distance runner and keen cyclist.
