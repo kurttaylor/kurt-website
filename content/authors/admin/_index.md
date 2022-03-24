@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Senior Research Associate in Medical Statistics and Health Data Science conducting research within the Longitudinal Health and Wellbeing COVID-19 National Core Study.
+bio: I am a Senior Research Associate in Medical Statistics and Health Data Science conducting research using electronic health data.
 
 interests:
 - Epidemiology
