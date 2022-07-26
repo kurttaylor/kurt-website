@@ -7,7 +7,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "CV"
+title = "Academic CV"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -15,4 +15,4 @@ weight = 75
 
 +++
 
-My CV is available [here](https://kurt-taylor.netlify.app/docs/Kurt_CV.pdf).
+My Academic CV is available [here](https://kurt-taylor.netlify.app/docs/Kurt_CV.pdf).
