@@ -13,11 +13,6 @@
 #  url = "#posts"
 #  weight = 20
 
-[[main]]
-  name = "Thesis"
-  url = "https://kurt-taylor.netlify.app/docs/Kurt_thesis.pdf"
-  weight = 30
-
   # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
  [[main]]
@@ -29,6 +24,11 @@
   name = "Publications"
   url = "/publication/"
   weight = 50
+
+  [[main]]
+  name = "Thesis"
+  url = "https://kurt-taylor.netlify.app/docs/Kurt_thesis.pdf"
+  weight = 55
 
 [[main]]
   name = "Running"
