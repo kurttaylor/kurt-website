@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Thesis"
-  url = "/static/docs/Kurt_thesis.pdf"
+  url = "https://kurt-taylor.netlify.app/docs/Kurt_thesis.pdf"
   weight = 20
 
 #[[main]]
