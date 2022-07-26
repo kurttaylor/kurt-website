@@ -16,4 +16,5 @@ weight = 75
 +++
 
 My Academic CV is available [here](https://kurt-taylor.netlify.app/docs/Kurt_CV.pdf).
+
 A PDF version of my PhD Thesis is available [here](https://kurt-taylor.netlify.app/docs/Kurt_thesis.pdf).
