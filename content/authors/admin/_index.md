@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kurt Taylor
+title: Dr Kurt Taylor
 
 # Is this the primary user of the site?
 superuser: true
