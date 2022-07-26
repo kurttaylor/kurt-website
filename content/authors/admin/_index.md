@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Kurt Taylor
+title: Kurt Taylor
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ bio: I am a Senior Research Associate in Medical Statistics and Health Data Scie
 interests:
 - Epidemiology
 - Open Science
-- Data Visualisation
+- Metabolomics
 - Electronic health record data
 
 education:
