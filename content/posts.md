@@ -18,10 +18,6 @@ This page includes any blog posts or non-academic writing I have been involved w
 
 A guest blog from myself and Dr Elsie Horne, University of Bristol ([see here](https://www.bennett.ox.ac.uk/blog/2023/01/using-electronic-health-records-and-open-science-in-the-covid-19-pandemic/))
 
-# Below is an example of YouTube.
-# 
-# <iframe width="560" height="315" src="https://www.youtube.com/" title="YouTube video player" #frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" #allowfullscreen></iframe>
-
 ***
 
 #### Press release: Smoking during pregnancy associated with child’s risk of having congenital heart disease
