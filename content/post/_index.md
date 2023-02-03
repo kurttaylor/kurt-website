@@ -1,14 +1,29 @@
----
-#title: Posts
++++
+title = "Posts"
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#view: 2
+date = 2020-01-01T00:00:00
+draft = false
+share = false
 
-# Optional header image (relative to `static/media/` folder).
-#header:
-#  caption: ""
-#  image: ""
----
+# [header]
+# image = ""
+# caption = ""
++++
+
+This page includes any blog posts or non-academic writing I have been involved with. 
+
+***
+
+#### Using electronic health records and open science in the COVID-19 pandemic
+
+A guest blog from myself and Dr Elsie Horne, University of Bristol ([see here](https://www.bennett.ox.ac.uk/blog/2023/01/using-electronic-health-records-and-open-science-in-the-covid-19-pandemic/))
+
+# Below is an example of YouTube.
+# 
+# <iframe width="560" height="315" src="https://www.youtube.com/" title="YouTube video player" #frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" #allowfullscreen></iframe>
+
+***
+
+#### Press release: Smoking during pregnancy associated with child’s risk of having congenital heart disease
+
+I helped write [this press release](https://www.bristol.ac.uk/news/2021/may/smoking-pregnancy-research.html) to coincide with the manuscript publication in *The Journal of the American Heart Association*. 
