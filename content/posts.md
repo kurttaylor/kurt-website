@@ -10,7 +10,7 @@ share = false
 # caption = ""
 +++
 
-This page includes any blog posts or non-academic writing I have been involved with. 
+This page includes any blog posts or non-academic writing I have been involved in. 
 
 ***
 
