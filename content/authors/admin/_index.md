@@ -6,18 +6,19 @@ title: Dr Kurt Taylor
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bristol
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Senior Research Associate in Medical Statistics and Health Data Science conducting research using electronic health data.
+bio: I am an analyst providing technical support to companies in the pharmaceutical sector. I completed my PhD in Epidemiology at the University of Bristol and have postdoctoral experience working as a Senior Research Associate in Medical Statistics and Health Data Science.
 
 interests:
 - Epidemiology
+- Statistics
 - Open Science
 - Data Visualisation
 - Electronic health record data
@@ -38,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:kurt.taylor@bristol.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:kurt.taylor20@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KurtSci1994
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Research Associate in Medical Statistics and Health Data Science at the University of Bristol based in the Bristol Medical School. Currently, I am conducting research using electronic health data. In my spare time, I am a competitive distance runner and keen cyclist.
+I am an analyst providing technical support to companies in the pharmaceutical sector. I completed my PhD in Epidemiology at the University of Bristol and have postdoctoral experience working as a Senior Research Associate in Medical Statistics and Health Data Science.
