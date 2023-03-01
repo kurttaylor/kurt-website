@@ -17,4 +17,6 @@ weight = 75
 
 My Academic CV is available [here](https://kurt-taylor.netlify.app/docs/Kurt_CV.pdf).
 
+I have a concise one-page resume available [here](https://kurt-taylor.netlify.app/docs/k-taylor-1-page.pdf)
+
 A PDF version of my PhD Thesis is available [here](https://kurt-taylor.netlify.app/docs/Kurt_thesis.pdf).
