@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I completed my PhD in Epidemiology at the University of Bristol in February 2022. Since then, I obtained postdoctoral experience working as a Senior Research Associate in Medical Statistics and Health Data Science. Currently, I am working as an analyst within the consulting/pharamceutical industry. 
+bio: I completed my PhD in Epidemiology at the University of Bristol in February 2022. Afterwards, I obtained postdoctoral experience working as a Senior Research Associate in Medical Statistics and Health Data Science. Currently, I am working as an analyst within the consulting/pharamceutical industry. 
 
 interests:
 - Epidemiology
@@ -22,6 +22,7 @@ interests:
 - Open Science
 - Data Visualisation
 - Electronic health record data
+- R
 
 education:
   courses:
@@ -74,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I completed my PhD in Epidemiology at the University of Bristol in February 2022. Since then, I obtained postdoctoral experience working as a Senior Research Associate in Medical Statistics and Health Data Science. Currently, I am working as an analyst within the consulting/pharamceutical industry. 
+I completed my PhD in Epidemiology at the University of Bristol in February 2022. Afterwards, I obtained postdoctoral experience working as a Senior Research Associate in Medical Statistics and Health Data Science. Currently, I am working as an analyst within the consulting/pharamceutical industry. 

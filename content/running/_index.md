@@ -17,11 +17,11 @@ I am a competitive distance runner competing for Bristol & West AC where I am al
 | **Distance**  | **Personal Best** | **Date**     |
 |---------------|-------------------|--------------|
 | 800m          | 01m 55.9s         | August 2019  |
-| 1500m         | 03m 52.5s         | July 2019    |
-| 3k            | 08m 20.47s        | June 2022    |
+| 1500m         | 03m 50.65s         | July 2023    |
+| 3k            | 08m 13.16s        | July 2023    |
 | 5k            | 14m 00s           | February 2023 |
 | 10k           | 29m 25s           | December 2022 |
-| Half Marathon | 01h 06m 08s       | October 2022   |
+| Half Marathon | 01h 06m 03s       | March 2023   |
 
 </p>
 <img src="./kurt_athlete_photo.jpg" width="500" height="500">

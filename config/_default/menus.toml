@@ -8,18 +8,18 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-# name = "Posts"
-#  url = "/posts/"
-#  weight = 20
+[[main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 20
 
   # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 
- [[main]]
-    name = "One-page Resume"
-    url = "https://kurt-taylor.netlify.app/docs/k-taylor-1-page.pdf"
-    weight = 40
+ #[[main]]
+ #   name = "One-page Resume"
+ #   url = "https://kurt-taylor.netlify.app/docs/k-taylor-1-page.pdf"
+ #   weight = 40
 
  [[main]]
     name = "Academic CV"
