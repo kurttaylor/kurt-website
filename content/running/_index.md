@@ -20,7 +20,7 @@ I am a competitive distance runner competing for Bristol & West AC where I am al
 | 1500m         | 03m 50.65s         | July 2023    |
 | 3k            | 08m 13.16s        | July 2023    |
 | 5k            | 14m 00s           | February 2023 |
-| 10k           | 29m 25s           | December 2022 |
+| 10k           | 29m 20s           | December 2023 |
 | Half Marathon | 01h 06m 03s       | March 2023   |
 
 </p>
