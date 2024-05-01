@@ -26,10 +26,10 @@
     url = "https://kurt-taylor.netlify.app/docs/Kurt_CV.pdf"
     weight = 45
 
-[[main]]
-  name = "Publications"
-  url = "/publication/"
-  weight = 50
+#[[main]]
+#  name = "Publications"
+#  url = "/publication/"
+#  weight = 50
 
   [[main]]
   name = "Thesis"
